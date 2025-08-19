@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "头像.jpeg"
+  avatar           : "profile.png"
   name             : "Haoran Zhang"
   bio: >-
-    Undergraduate in Data Science at Renmin University of China.<br>
-    Research interests: generative modeling & causal inference.<br>
-    Data Science intern at ByteDance.
+    Undergraduate RUC DS.<br>
+    Generative modeling & Causal inference.<br>
+    Data Science intern @ ByteDance.
 
   location         : "Earth"
   employer         : "Red Brick University"
@@ -50,7 +50,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/wuwufufu"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
