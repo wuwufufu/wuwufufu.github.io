@@ -1,14 +1,16 @@
 ---
 permalink: /
-title: "Haoran Zhang (Theodore)"
+title: "Haoran Zhang "
 layout: single
 author_profile: true
 ---
 
-Hi! I’m **Haoran (Theodore)** — a sophomore studying Data Science at Renmin University of China.  
+Hi! I’m **Haoran** — a sophomore studying Data Science at Renmin University of China.  
 I like taking noisy data and ideas, shrinking them until they fit on one page, and then testing whether they actually say anything.
 
-I answer to **“Theodore”** (or **“Ted”**). If you catch me staring at a plot, I’m probably deciding whether it’s telling the truth or just being pretty.
+You can call me **wuwufufu**, **wufu**, or **5f (碔砆)**— that’s been my WeChat nickname for the past five or six years. You can also call me **Theodore**, or **Ted** for short, which has been my English name for over a decade. If you catch me staring at a plot, I’m probably deciding whether it’s telling the truth or just being pretty.
+
+A lifelong member of the single club.
 
 ---
 
@@ -46,5 +48,5 @@ I answer to **“Theodore”** (or **“Ted”**). If you catch me staring at a 
 
 ---
 
-- **WeChat:** [QR code](/images/wechat_qr.png){:target="_blank" rel="noopener"}
+- **WeChat:** [QR code](bff4e509c0f9aacc0de631b3ffa8276b.jpg)
 
