@@ -22,10 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "头像.jpeg"
   name             : "Haoran Zhang"
-  pronouns         : "he/him"  
-  bio              : "Undergraduate in Data Science at Renmin University of China.Research interests: generative modeling and causal inference.Data Science intern at ByteDance"
+  bio: >-
+    Undergraduate in Data Science at Renmin University of China.<br>
+    Research interests: generative modeling & causal inference.<br>
+    Data Science intern at ByteDance.
+
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
