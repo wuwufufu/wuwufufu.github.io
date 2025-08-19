@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Haoran Zhang / wuwufufu / Theodore Zhang / Ted"
+title                    : "Haoran Zhang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,12 +24,16 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Haoran Zhang"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "he/him"  
+  bio: >-
+  Undergraduate in Data Science at Renmin University of China.
+  Research interests: generative modeling & causal inference.
+  Data Science intern at ByteDance.
+
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zhanghaoran1015@ruc.edu.cn" 
 
   # Academic websites
   academia         : # URL
