@@ -6,16 +6,18 @@ author_profile: true
 ---
 
 Hi! I’m **Haoran** 👋 — a sophomore studying Data Science at Renmin University of China 🎓.  
-I like taking noisy data 📊 and ideas 💡, shrinking them until they fit on one page 📄, and then testing whether they actually say anything 🧠.
 
 You can call me **wuwufufu**, **wufu**, or **5f (碔砆)** — that’s been my WeChat nickname for the past five or six years 📱.  
 You can also call me **Theodore**, or **Ted** for short ✨, which has been my English name for over a decade.  
-If you catch me staring at a plot 📈, I’m probably deciding whether it’s telling the truth 🔬 or just being pretty 🎨.
 
-Hope to make tons of friends along the way 🤝！
+Hope to make tons of friends along the way 🤝
 
 - **WeChat:** [QR code](bff4e509c0f9aacc0de631b3ffa8276b.jpg)
 
+墨砚深耕岂偶然，芸窗十载效先贤。
+立品滋德当胜日，润才抱志趁华年。
+胸藏丘壑凭风起，笔走龙蛇伴月眠。
+他日鲲鹏乘浪去，扶摇一举入云天。
 ---
 
 ## What I’m curious about (right now) 📚
