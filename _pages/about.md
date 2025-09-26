@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-Hi! I’m **Haoran** 👋 — a sophomore studying Data Science at Renmin University of China 🎓.  
+Hi! I’m **Haoran** 👋 —  studying Data Science at Renmin University of China 🎓.  
 
 You can call me **wuwufufu**, **wufu**, or **5f (碔砆)** — that’s been my WeChat nickname for the past five or six years 📱.  
 You can also call me **Theodore**, or **Ted** for short ✨, which has been my English name for over a decade.  
