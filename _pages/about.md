@@ -15,9 +15,13 @@ Hope to make tons of friends along the way 🤝
 - **WeChat:** [QR code](bff4e509c0f9aacc0de631b3ffa8276b.jpg)
 
 墨砚深耕岂偶然，芸窗十载效先贤。
+
 立品滋德当胜日，润才抱志趁华年。
+
 胸藏丘壑凭风起，笔走龙蛇伴月眠。
+
 他日鲲鹏乘浪去，扶摇一举入云天。
+
 ---
 
 ## What I’m curious about (right now) 📚
