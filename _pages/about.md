@@ -28,11 +28,14 @@ Hope to make tons of friends along the way 🤝
 ---
 ## 🏅 Awards & Honors
 
+- **National Scholarship for Undergraduate Students**, Ministry of Education of China, *2024*  
+- **Special Prize for Academic Excellence**, Renmin University of China, *2025*  
+- **Star of Integrated Innovation**, *The ICBC Award for Outstanding Student in Integrated Innovation*, *2025*
 
 ---
 
 ## 🚀 Research Interests
 
-AI for science · Causal Inference · Data-centric AI · Hierarchical Consistency · Flow Matching
+AI for science · Causal Inference · Data-centric AI 
 
 ---
