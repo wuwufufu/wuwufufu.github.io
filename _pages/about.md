@@ -5,10 +5,12 @@ layout: single
 author_profile: true
 ---
 
-Hi! I’m **Haoran** 👋 —  studying Data Science at Renmin University of China 🎓.  
+## 🧭 About Me
 
-You can call me **wuwufufu**, **wufu**, or **5f (碔砆)** — that’s been my WeChat nickname for the past five or six years 📱.  
-You can also call me **Theodore**, or **Ted** for short ✨, which has been my English name for over a decade.  
+Hi! I’m **Haoran** 👋 —  studying Data Science at Renmin University of China (RUC) .  
+
+You can call me **wuwufufu**, **wufu**, or **5f (碔砆)** — that’s been my WeChat nickname for the past five or six years .  
+You can also call me **Theodore**, or **Ted** for short , which has been my English name for over a decade.  
 
 Hope to make tons of friends along the way 🤝
 
@@ -23,6 +25,13 @@ Hope to make tons of friends along the way 🤝
 他日鲲鹏乘浪去，扶摇一举入云天。
 
 ---
+## 🏅 Awards & Honors
 
 
+---
 
+## 🚀 Research Interests
+
+AI for science · Causal Inference · Data-centric AI · Hierarchical Consistency · Flow Matching
+
+---
