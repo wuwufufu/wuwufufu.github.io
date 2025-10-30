@@ -37,7 +37,7 @@ AI for science · Causal Inference · Data-centric AI
 
 ---
 
-## 📞 Contact
+## 📞 Contact me
 
 Hope to make tons of friends along the way 🤝
 
