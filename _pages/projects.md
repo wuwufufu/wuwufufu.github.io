@@ -5,9 +5,9 @@ permalink: /projects/
 author_profile: true
 ---
 
-## 🧠 Research & Applied Projects
 
-### 🪑 RUC Seat Reservation Automation
+## 🪑 RUC Seat Reservation Automation
+
 Developed a multi-version automation system for the **Lide Research and Learning Center (立德研学中心)** seat booking platform at Renmin University.  
 The project evolved from early Selenium-based click 🖱️ simulation to direct API communication ⚡ and adaptive verification handling.  
 Focused on reliability, timing precision, and open-source transparency to support fair access for students.  
@@ -16,7 +16,8 @@ Focused on reliability, timing precision, and open-source transparency to suppor
 
 ---
 
-### 🍄 Fungal Classification – Kaggle Competition (Champion 🏆)
+## 🍄 Fungal Classification – Kaggle Competition (Champion 🏆)
+
 Built a high-accuracy deep learning pipeline for fungal image classification.  
 Achieved **1st place** 🥇in a Kaggle competition through model ensemble, data augmentation, and self-supervised pretraining.  
 Explored transfer learning and efficient inference optimization on limited compute.  
