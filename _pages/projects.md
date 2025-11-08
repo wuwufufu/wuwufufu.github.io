@@ -16,6 +16,16 @@ Focused on reliability, timing precision, and open-source transparency to suppor
 
 ---
 
+## 🧠 Automated Hypothesis Explorer (AHE)
+
+Designed and implemented a scalable system to **automate regression-based hypothesis discovery** in empirical research.  
+AHE replaces manual “regression monkey” workflows with controlled, interpretable, and ethical automation — scanning thousands of model combinations, applying FDR correction, validating robustness, and generating literature-based explanations.  
+Built with **FastAPI + Ray + Statsmodels + GPT/LangChain**, the system runs on standard research servers and produces reproducible, theory-aware reports.
+
+**Repo:** [github.com/wuwufufu/Automated-Hypothesis-Explorer-AHE](https://github.com/wuwufufu/Automated-Hypothesis-Explorer-AHE)
+
+---
+
 ## 🍄 Fungal Classification – Kaggle Competition (Champion 🏆)
 
 Built a high-accuracy deep learning pipeline for fungal image classification.  
