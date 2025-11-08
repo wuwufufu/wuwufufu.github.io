@@ -37,6 +37,10 @@ AI for science · Causal Inference · Data-centric AI
 
 ---
 
+## 💼 Internship Experience
+
+- **Data Science Intern**, *ByteDance (Data Cycling Center)* — *2025.7-2025.10*
+
 ## 📞 Contact me
 
 Hope to make tons of friends along the way 🤝
