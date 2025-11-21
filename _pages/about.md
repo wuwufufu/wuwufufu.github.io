@@ -28,7 +28,7 @@ You can also call me **Theodore**, or **Ted** for short , which has been my Engl
 - **National Scholarship for Undergraduate Students**, Ministry of Education of China, *2024*  
 - **Special Prize for Academic Excellence**, Renmin University of China, *2025*  
 - **Star of Integrated Innovation**, *The ICBC Award for Outstanding Student in Integrated Innovation*, *2025*
-  
+- **Beijing First Price**, *Chinese Mathematics Competition (CMC)*, *2025*
 ---
 
 ## 🚀 Research Interests
