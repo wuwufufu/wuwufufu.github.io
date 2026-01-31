@@ -19,9 +19,6 @@ redirect_from:
 
 Hi! I’m **Haoran Zhang**(Chinese: 张皓然) 👋 —  a **third-year undergraduate student** majoring in **Data Science** at [School of Statistics (RSS)](http://stat.ruc.edu.cn/), [Renmin University of China (RUC)](https://www.ruc.edu.cn/).   
 
-You can call me **wuwufufu**, **wufu**, or **5f (碔砆)** — that’s been my WeChat nickname for the past five or six years .  
-
-You can also call me **Theodore**, or **Ted** for short , which has been my English name for over two decades.  
 
 > 墨砚深耕岂偶然，芸窗十载效先贤。
 
