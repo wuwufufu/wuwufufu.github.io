@@ -52,8 +52,10 @@ I'm very fortunate to be advised by Prof. <a href="https://xiaozhoucam.github.io
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10* **National Scholarship for Undergraduate Students**, Ministry of Education of China
+- *2025.10* **Special Prize for Academic Excellence**, Renmin University of China
+- *2025.10* **Star of Integrated Innovation**, *The ICBC Award for Outstanding Student in Integrated Innovation*
+- *2025.10* **Beijing First Price**, *Chinese Mathematics Competition (CMC)* 
 
 # 📖 Educations
 <div style="margin-bottom: 40px;">
@@ -74,7 +76,7 @@ I'm very fortunate to be advised by Prof. <a href="https://xiaozhoucam.github.io
   <div style="display: flex; align-items: center; gap: 20px;">
     <div style="flex: 1; font-size: 1.1em;">
       <strong>Byte Dance </strong><br/>
-      Internship, 2025.09 - Now<br/>
+      Internship, 2025.07 - 2025.10<br/>
     Topic: Data Centric AI<br/>
     </div>
     <div style="flex-shrink: 0; max-width: 100px;">
