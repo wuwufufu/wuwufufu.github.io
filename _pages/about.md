@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I’m **Haoran Zhang**(Chinese: 张皓然) 👋 —  a **third-year undergraduate student** majoring in **Data Science** at [School of Statistics (RSS)](http://stat.ruc.edu.cn/), [Renmin University of China (RUC)](https://www.ruc.edu.cn/).   
+Hi! I’m **Haoran Zhang**(Chinese: 张皓然) 👋 —  a **third-year undergraduate student** majoring in **Data Science** at [School of Statistics (RSS)](http://stat.ruc.edu.cn/), [Renmin University of China (RUC)](https://www.ruc.edu.cn/) (Rank: 1st GPA: 3.96/4.0).   
 
 I'm very fortunate to be advised by Prof. <a href="https://xiaozhoucam.github.io/" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Xiao Zhou</a> at the LUMOS AI Lab, <a href="http://ai.ruc.edu.cn/" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Gaoling School of Artificial Intelligence (GSAI)</a>, Renmin University of China, where I am deeply grateful to <a href="https://camelliaxt.github.io" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Xintong Li</a> for her invaluable guidance. I also have the incredible opportunity to be mentored by Prof. <a href="https://www.comp.nus.edu.sg/~atung/" style="color:#003D7C; text-decoration-color:#003D7C;">Anthony K. H. Tung</a> at the <a href="https://www.nus.edu.sg/" style="color:#003D7C; text-decoration-color:#003D7C;">National University of Singapore</a>, working alongside <a href="https://zitongshi.github.io" style="color:#003D7C; text-decoration-color:#003D7C;">Zitong Shi</a> and <a href="https://www.comp.nus.edu.sg/~yixuan/" style="color:#003D7C; text-decoration-color:#003D7C;">Yixuan Tang</a>.
 
@@ -29,7 +29,11 @@ I'm very fortunate to be advised by Prof. <a href="https://xiaozhoucam.github.io
 
 > 他日鲲鹏乘浪去，扶摇一举入云天。
 
-
+# 🎖 Honors and Awards
+- *2024.10* **National Scholarship for Undergraduate Students**, Ministry of Education of China
+- *2025.10* **Special Prize for Academic Excellence**, Renmin University of China
+- *2025.10* **Star of Integrated Innovation**, *The ICBC Award for Outstanding Student in Integrated Innovation*
+- *2025.11* **Beijing First Price**, *Chinese Mathematics Competition (CMC)* 
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -131,12 +135,6 @@ I'm very fortunate to be advised by Prof. <a href="https://xiaozhoucam.github.io
   </div>
 </div>
 
-
-# 🎖 Honors and Awards
-- *2024.10* **National Scholarship for Undergraduate Students**, Ministry of Education of China
-- *2025.10* **Special Prize for Academic Excellence**, Renmin University of China
-- *2025.10* **Star of Integrated Innovation**, *The ICBC Award for Outstanding Student in Integrated Innovation*
-- *2025.11* **Beijing First Price**, *Chinese Mathematics Competition (CMC)* 
 
 # 💼 Experience
 
