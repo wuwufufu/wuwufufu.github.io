@@ -29,16 +29,13 @@ I'm very fortunate to be advised by Prof. <a href="https://xiaozhoucam.github.io
 
 > 他日鲲鹏乘浪去，扶摇一举入云天。
 
-# 🎖 Honors and Awards
-- *2024.10* **National Scholarship for Undergraduate Students**, Ministry of Education of China
-- *2025.10* **Special Prize for Academic Excellence**, Renmin University of China
-- *2025.10* **Star of Integrated Innovation**, *The ICBC Award for Outstanding Student in Integrated Innovation*
-- *2025.11* **Beijing First Price**, *Chinese Mathematics Competition (CMC)* 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2025.11*: &nbsp;🎉🎉 Our paper "Spatio-Temporal Hierarchical Causal Models" was accepted by AAAI 2026 as a poster.
+- *2025.11*: &nbsp;🏆🏆 Won the Beijing First Prize in the Chinese Mathematics Competition (CMC), without any preparation😆😆.
+- *2025.10*: &nbsp;🎖️🎖️ Honored to receive the Special Prize for Academic Excellence (￥8000) and Outstanding Student Leader from RUC!
+- *2025.7*: &nbsp;💼💼Started my data science internship at ByteDance, focusing on Data-Centric AI.
+- *2024.10*: &nbsp;🎖️🎖️Honored to receive the **National Scholarship for Undergraduate Students**!
 # 📝 Publications 
 
 
@@ -135,7 +132,12 @@ I'm very fortunate to be advised by Prof. <a href="https://xiaozhoucam.github.io
   </div>
 </div>
 
-
+# 🎖 Honors and Awards
+- *2024.10* **National Scholarship for Undergraduate Students**, Ministry of Education of China
+- *2025.10* **Special Prize for Academic Excellence**, Renmin University of China
+- *2025.10* **Star of Integrated Innovation**, *The ICBC Award for Outstanding Student in Integrated Innovation*
+- *2025.11* **Beijing First Price**, *Chinese Mathematics Competition (CMC)*
+-  
 # 💼 Experience
 
 <div style="margin-bottom: 40px;">
