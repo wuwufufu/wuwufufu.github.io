@@ -29,7 +29,6 @@ I'm very fortunate to be advised by Prof. <a href="https://xiaozhoucam.github.io
 
 > 他日鲲鹏乘浪去，扶摇一举入云天。
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
@@ -57,12 +56,29 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div style="margin-bottom: 40px;">
+  <div style="display: flex; align-items: center; gap: 20px;">
+    <div style="flex: 1; font-size: 1.1em;">
+      <strong>2023.09 - Now</strong><br/>
+      Undergraduate, School of Statistics, Renmin University of China<br/>
+    </div>
+    <div style="flex-shrink: 0; max-width: 100px;">
+      <img src="../images/RUC.jpg" alt="RUC Logo" style="width: 100%; height: auto; object-fit: contain;" />
+    </div>
+  </div>
+</div>
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💼 Experience
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<div style="margin-bottom: 40px;">
+  <div style="display: flex; align-items: center; gap: 20px;">
+    <div style="flex: 1; font-size: 1.1em;">
+      <strong>Byte Dance </strong><br/>
+      Internship, 2025.09 - Now<br/>
+    Topic: Data Centric AI<br/>
+    </div>
+    <div style="flex-shrink: 0; max-width: 100px;">
+      <img src="../images/logo800_16491624083325586.png" alt="BTDC Logo" style="width: 100%; height: auto; object-fit: contain;" />
+    </div>
+  </div>
+</div>
