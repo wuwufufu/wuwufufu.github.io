@@ -71,6 +71,66 @@ I'm very fortunate to be advised by Prof. <a href="https://xiaozhoucam.github.io
   </div>
 </div>
 
+<div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 16px; padding: 2em; margin-bottom: 2em; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03); transition: all 0.3s ease;">
+  <div style="display: flex; flex-direction: column; gap: 1.5em;">
+    <div style="display: flex; gap: 2em; align-items: flex-start;">
+      <div style="flex: 1; min-width: 0;">
+        <div style="background: linear-gradient(135deg, #003D7C 0%, #EF7C00 100%); color: white; padding: 0.3em 0.8em; border-radius: 20px; display: inline-block; font-size: 0.8em; font-weight: 600; margin-bottom: 1em;">
+          ICML 2026 • Under Review
+        </div>
+        
+        <h3 style="color: #2d3748; font-size: 1.3em; font-weight: 700; margin: 0 0 0.8em 0; line-height: 1.3;">
+          SPEAR: Piercing the Stealthy Veil of Backdoor Attacks in Vision-Language Models via Energy-Driven Analysis
+        </h3>
+        
+        <div style="color: #4a5568; font-size: 1em; margin-bottom: 1em; line-height: 1.5;">
+          <strong style="color: #2d3748;">Haoran Zhang</strong>, Zitong Shi, <em>et al.</em>
+        </div>
+        
+        <div style="color: #6b7280; font-size: 0.95em; font-style: italic; line-height: 1.4;">
+          International Conference on Machine Learning (ICML), 2026
+        </div>
+      </div>
+      
+      <div style="flex: 0 0 300px;">
+        <div style="background: white; border-radius: 16px; padding: 0.8em; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);">
+          <img src="images/AABBC1.png" alt="SPEAR Framework" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);" />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 16px; padding: 2em; margin-bottom: 2em; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03); transition: all 0.3s ease;">
+  <div style="display: flex; flex-direction: column; gap: 1.5em;">
+    <div style="display: flex; gap: 2em; align-items: flex-start;">
+      <div style="flex: 1; min-width: 0;">
+        <div style="background: linear-gradient(135deg, #AE0B2A 0%, #7d081e 100%); color: white; padding: 0.3em 0.8em; border-radius: 20px; display: inline-block; font-size: 0.8em; font-weight: 600; margin-bottom: 1em;">
+          ICML 2026 • Under Review
+        </div>
+        
+        <h3 style="color: #2d3748; font-size: 1.3em; font-weight: 700; margin: 0 0 0.8em 0; line-height: 1.3;">
+          Social-JEPA: Emergent Geometric Isomorphism in Independently Trained World Models
+        </h3>
+        
+        <div style="color: #4a5568; font-size: 1em; margin-bottom: 1em; line-height: 1.5;">
+          <strong style="color: #2d3748;">Haoran Zhang</strong>, Youjin Wang, <em>et al.</em>
+        </div>
+        
+        <div style="color: #6b7280; font-size: 0.95em; font-style: italic; line-height: 1.4;">
+          International Conference on Machine Learning (ICML), 2026
+        </div>
+      </div>
+      
+      <div style="flex: 0 0 300px;">
+        <div style="background: white; border-radius: 16px; padding: 0.8em; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);">
+          <img src="images/Framework.jpg" alt="Social-JEPA Overview" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);" />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2024.10* **National Scholarship for Undergraduate Students**, Ministry of Education of China
