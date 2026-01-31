@@ -44,27 +44,27 @@ I'm very fortunate to be advised by Prof. <a href="https://xiaozhoucam.github.io
     <div style="display: flex; gap: 2em; align-items: flex-start;">
       <div style="flex: 1; min-width: 0;">
         <div style="background: linear-gradient(135deg, #2563eb 0%, #1e40af 100%); color: white; padding: 0.3em 0.8em; border-radius: 20px; display: inline-block; font-size: 0.8em; font-weight: 600; margin-bottom: 1em;">
-          NeurIPS 2025 • Spotlight
+          AAAI 2026 • Poster
         </div>
         
         <h3 style="color: #2d3748; font-size: 1.3em; font-weight: 700; margin: 0 0 0.8em 0; line-height: 1.3;">
-          HYPERION: Fine-Grained Hypersphere Alignment for Robust Federated Graph Learning
+          Spatio-Temporal Hierarchical Causal Models
         </h3>
         
         <div style="color: #4a5568; font-size: 1em; margin-bottom: 1em; line-height: 1.5;">
-          <strong style="color: #2d3748;">Xiaoran Shang</strong>†, <strong>Guancheng Wan</strong>†, <strong>Guibin Zhang</strong>, <em>et al.</em>
+          <strong style="color: #2d3748;">Xintong Li</strong>, <strong>Haoran Zhang</strong>, <strong>Xiao Zhou</strong>
         </div>
         
         
         
         <div style="color: #6b7280; font-size: 0.95em; font-style: italic; line-height: 1.4;">
-          Annual Conference on Neural Information Processing Systems (NeurIPS), 2025
+          AAAI Conference on Artificial Intelligence (AAAI), 2026
         </div>
       </div>
       
       <div style="flex: 0 0 300px;">
         <div style="background: white; border-radius: 16px; padding: 0.8em; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);">
-          <img src="images/paper/HYPERION-NIPS25.png" alt="HYPERION Framework" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);" />
+          <img src="images/x1.png" alt="STHCM Framework" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);" />
         </div>
       </div>
     </div>
@@ -77,19 +77,6 @@ I'm very fortunate to be advised by Prof. <a href="https://xiaozhoucam.github.io
 - *2025.10* **Special Prize for Academic Excellence**, Renmin University of China
 - *2025.10* **Star of Integrated Innovation**, *The ICBC Award for Outstanding Student in Integrated Innovation*
 - *2025.11* **Beijing First Price**, *Chinese Mathematics Competition (CMC)* 
-
-# 📖 Educations
-<div style="margin-bottom: 40px;">
-  <div style="display: flex; align-items: center; gap: 20px;">
-    <div style="flex: 1; font-size: 1.1em;">
-      <strong>2023.09 - Now</strong><br/>
-      Undergraduate, School of Statistics, Renmin University of China<br/>
-    </div>
-    <div style="flex-shrink: 0; max-width: 100px;">
-      <img src="../images/RUC.jpg" alt="RUC Logo" style="width: 100%; height: auto; object-fit: contain;" />
-    </div>
-  </div>
-</div>
 
 # 💼 Experience
 
@@ -105,3 +92,17 @@ I'm very fortunate to be advised by Prof. <a href="https://xiaozhoucam.github.io
     </div>
   </div>
 </div>
+
+# 📖 Educations
+<div style="margin-bottom: 40px;">
+  <div style="display: flex; align-items: center; gap: 20px;">
+    <div style="flex: 1; font-size: 1.1em;">
+      <strong>2023.09 - Now</strong><br/>
+      Undergraduate, School of Statistics, Renmin University of China<br/>
+    </div>
+    <div style="flex-shrink: 0; max-width: 100px;">
+      <img src="../images/RUC.jpg" alt="RUC Logo" style="width: 100%; height: auto; object-fit: contain;" />
+    </div>
+  </div>
+</div>
+
