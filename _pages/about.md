@@ -19,7 +19,7 @@ redirect_from:
 
 Hi! I’m **Haoran Zhang**(Chinese: 张皓然) 👋 —  a **third-year undergraduate student** majoring in **Data Science** at [School of Statistics (RSS)](http://stat.ruc.edu.cn/), [Renmin University of China (RUC)](https://www.ruc.edu.cn/).   
 
-I'm very fortunate to be advised by Prof. <a href="https://xiaozhoucam.github.io/" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Xiao Zhou</a> at the LUMOS AI Lab,where I am deeply grateful to <a href="https://camelliaxt.github.io" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Xintong Li</a> for her invaluable guidance. I also have the incredible opportunity to be mentored by Prof. <a href="https://www.comp.nus.edu.sg/~atung/" style="color:#003D7C; text-decoration-color:#003D7C;">Anthony K. H. Tung</a> at the <a href="https://www.nus.edu.sg/" style="color:#EF7C00; text-decoration-color:#EF7C00;">National University of Singapore</a>, working alongside <a href="https://zitongshi.github.io" style="color:#003D7C; text-decoration-color:#003D7C;">Zitong Shi</a> and <a href="https://www.comp.nus.edu.sg/~yixuan/" style="color:#003D7C; text-decoration-color:#003D7C;">Yixuan Tang</a>.
+I'm very fortunate to be advised by Prof. <a href="https://xiaozhoucam.github.io/" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Xiao Zhou</a> at the LUMOS AI Lab,where I am deeply grateful to <a href="https://camelliaxt.github.io" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Xintong Li</a> for her invaluable guidance. I also have the incredible opportunity to be mentored by Prof. <a href="https://www.comp.nus.edu.sg/~atung/" style="color:#003D7C; text-decoration-color:#003D7C;">Anthony K. H. Tung</a> at the <a href="https://www.nus.edu.sg/" style="color:#003D7C; text-decoration-color:#003D7C;">National University of Singapore</a>, working alongside <a href="https://zitongshi.github.io" style="color:#003D7C; text-decoration-color:#003D7C;">Zitong Shi</a> and <a href="https://www.comp.nus.edu.sg/~yixuan/" style="color:#003D7C; text-decoration-color:#003D7C;">Yixuan Tang</a>.
 
 > 墨砚深耕岂偶然，芸窗十载效先贤。
 
@@ -37,25 +37,46 @@ I'm very fortunate to be advised by Prof. <a href="https://xiaozhoucam.github.io
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 16px; padding: 2em; margin-bottom: 2em; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03); transition: all 0.3s ease;">
+  <div style="display: flex; flex-direction: column; gap: 1.5em;">
+    
+    <div style="display: flex; gap: 2em; align-items: flex-start;">
+      <div style="flex: 1; min-width: 0;">
+        <div style="background: linear-gradient(135deg, #2563eb 0%, #1e40af 100%); color: white; padding: 0.3em 0.8em; border-radius: 20px; display: inline-block; font-size: 0.8em; font-weight: 600; margin-bottom: 1em;">
+          NeurIPS 2025 • Spotlight
+        </div>
+        
+        <h3 style="color: #2d3748; font-size: 1.3em; font-weight: 700; margin: 0 0 0.8em 0; line-height: 1.3;">
+          HYPERION: Fine-Grained Hypersphere Alignment for Robust Federated Graph Learning
+        </h3>
+        
+        <div style="color: #4a5568; font-size: 1em; margin-bottom: 1em; line-height: 1.5;">
+          <strong style="color: #2d3748;">Xiaoran Shang</strong>†, <strong>Guancheng Wan</strong>†, <strong>Guibin Zhang</strong>, <em>et al.</em>
+        </div>
+        
+        
+        
+        <div style="color: #6b7280; font-size: 0.95em; font-style: italic; line-height: 1.4;">
+          Annual Conference on Neural Information Processing Systems (NeurIPS), 2025
+        </div>
+      </div>
+      
+      <div style="flex: 0 0 300px;">
+        <div style="background: white; border-radius: 16px; padding: 0.8em; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);">
+          <img src="images/paper/HYPERION-NIPS25.png" alt="HYPERION Framework" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);" />
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
-</div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2024.10* **National Scholarship for Undergraduate Students**, Ministry of Education of China
 - *2025.10* **Special Prize for Academic Excellence**, Renmin University of China
 - *2025.10* **Star of Integrated Innovation**, *The ICBC Award for Outstanding Student in Integrated Innovation*
-- *2025.10* **Beijing First Price**, *Chinese Mathematics Competition (CMC)* 
+- *2025.11* **Beijing First Price**, *Chinese Mathematics Competition (CMC)* 
 
 # 📖 Educations
 <div style="margin-bottom: 40px;">
