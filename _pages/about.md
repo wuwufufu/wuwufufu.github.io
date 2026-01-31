@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I’m **Haoran Zhang**(Chinese: 张皓然) 👋 —  a **third-year undergraduate student** majoring in **Data Science** at [School of Statistics (RSS)](http://stat.ruc.edu.cn/), [Renmin University of China (RUC)](https://www.ruc.edu.cn/) (Rank: 1st GPA: 3.96/4.0).   
+Hi! I’m **Haoran Zhang**(Chinese: 张皓然) 👋 —  a **third-year undergraduate student** majoring in **Data Science** at [School of Statistics (RSS)](http://stat.ruc.edu.cn/), [Renmin University of China (RUC)](https://www.ruc.edu.cn/) **(Rank: 1st GPA: 3.96/4.0)**.   
 
 I'm very fortunate to be advised by Prof. <a href="https://xiaozhoucam.github.io/" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Xiao Zhou</a> at the LUMOS AI Lab, <a href="http://ai.ruc.edu.cn/" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Gaoling School of Artificial Intelligence (GSAI)</a>, Renmin University of China, where I am deeply grateful to <a href="https://camelliaxt.github.io" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Xintong Li</a> for her invaluable guidance. I also have the incredible opportunity to be mentored by Prof. <a href="https://www.comp.nus.edu.sg/~atung/" style="color:#003D7C; text-decoration-color:#003D7C;">Anthony K. H. Tung</a> at the <a href="https://www.nus.edu.sg/" style="color:#003D7C; text-decoration-color:#003D7C;">National University of Singapore</a>, working alongside <a href="https://zitongshi.github.io" style="color:#003D7C; text-decoration-color:#003D7C;">Zitong Shi</a> and <a href="https://www.comp.nus.edu.sg/~yixuan/" style="color:#003D7C; text-decoration-color:#003D7C;">Yixuan Tang</a>.
 
